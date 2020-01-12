@@ -3,7 +3,7 @@
     "name": "test",
     "version": "0.0.0",
     "dependencies": {
-        "aaa": "0.0.0"
+        "aaa": "0.0.2"
     },
     "devDependencies": {
         "bbb": "0.0.0"
